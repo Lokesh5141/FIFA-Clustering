@@ -1,0 +1,16 @@
+Library  	:	Purpose
+---------------------------------------------------------------------
+
+numpy 		:  Data handling & processing.
+pandas 		:  Data handling & processing.
+matplotlib 	:  Visualization.
+seaborn 	:  Visualization.
+scipy 		:  Clustering (Hierarchical).
+scikit-learn 	:  K-Means, PCA, StandardScaler.
+Pillow 		:  Image handling (PIL.Image).
+plotly 		:  Interactive visualizations.
+yellowbrick 	:  KElbowVisualizer for K-Means clustering.
+warnings	:  To ignore warnings.
+
+
+	
