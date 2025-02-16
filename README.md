@@ -33,11 +33,7 @@ The project requires the following Python libraries:
 - plotly
 - yellowbrick
 
-These are all listed in the requirements.txt file. Install them using:
-
-bash
-Copy
-Edit
+### These are all listed in the requirements.txt file. Install them using:
 pip install -r requirements.txt
 
 ## Contributing
@@ -49,3 +45,9 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 Thanks to the community for providing open-source datasets and libraries.
 Special thanks to [FIFA] for making the player dataset available (if applicable).
+
+
+---
+
+Feel free to modify any section as needed based on the specifics of your implementation or project requirements. When you share your notebook file, we can further tailor sections like “Project Details” and “Results” to match your actual experiments and outcomes.
+
